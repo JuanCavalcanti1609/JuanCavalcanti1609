@@ -1,10 +1,11 @@
-# 👋 Juan Cavalcanti  
-💻 Suporte Técnico PL | SQL Server | Data & Automação
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200px">
+</p>
 
-<h1>
-  👋 Juan Cavalcanti
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40px">
-</h1>
+
+<h1 align="center">👋 Juan Cavalcanti</h1>
+<p align="center">💻 Suporte Técnico PL | Data & Automação</p>
+
 
 ## 🧠 Sobre mim
 
@@ -14,7 +15,7 @@ Tenho interesse crescente em engenharia/ciência de dados e business intelligenc
 
 ---
 
-## Tecnologias & Linguagens
+## Ferramentas e Linguagens
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -39,3 +40,4 @@ Tenho interesse crescente em engenharia/ciência de dados e business intelligenc
 ---
 
 ✨ Sempre aberto a trocar ideias, aprender e colaborar em projetos!
+
