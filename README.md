@@ -24,6 +24,8 @@ Tenho interesse crescente em engenharia/ciência de dados e business intelligenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="60" style="margin-right: 10px;" />
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50px">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50px" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/n8n/FF6584" width="50px" style="margin-right: 10px;" />
 </p>
 
 ---
